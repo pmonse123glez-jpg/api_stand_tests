@@ -17,3 +17,5 @@ Este proyecto contiene un conjunto de pruebas automatizadas con **pytest** para 
 2. Ejecuta el comando de pruebas en la terminal:
    ```bash
    pytest create_user_test.py
+   
+<!-- cambio de prueba -->
